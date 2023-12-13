@@ -1,0 +1,1397 @@
+Glycan,C5,C6,C_7
+2-3-0-0-0 Protonated,141608000,99757990,N/A
+2-3-0-0-0 Protonated Ratio,1.42,1,N/A
+2-3-0-0-0 All Adducts,301308368,207537928,N/A
+2-3-0-0-0 All Ratio,1.45,1,N/A
+2-3-1-0-0 Protonated,761209900,412857800,N/A
+2-3-1-0-0 Protonated Ratio,1.84,1,N/A
+2-3-1-0-0 All Adducts,6959883216,2503952360,N/A
+2-3-1-0-0 All Ratio,2.78,1,N/A
+2-4-0-0-0 Protonated,809813900,383868000,N/A
+2-4-0-0-0 Protonated Ratio,2.11,1,N/A
+2-4-0-0-0 All Adducts,3922380512,1121236616,N/A
+2-4-0-0-0 All Ratio,3.5,1,N/A
+2-5-0-0-0 Protonated,44878100000,31528740000,N/A
+2-5-0-0-0 Protonated Ratio,1.42,1,N/A
+2-5-0-0-0 All Adducts,1.56E+11,94192769024,N/A
+2-5-0-0-0 All Ratio,1.66,1,N/A
+2-6-0-0-0 Protonated,5738225000,3105394000,N/A
+2-6-0-0-0 Protonated Ratio,1.85,1,N/A
+2-6-0-0-0 All Adducts,36217889344,14997431168,N/A
+2-6-0-0-0 All Ratio,2.41,1,N/A
+2-7-0-0-0 Protonated,751669200,260013000,N/A
+2-7-0-0-0 Protonated Ratio,2.89,1,N/A
+2-7-0-0-0 All Adducts,4437778344,3522385716,N/A
+2-7-0-0-0 All Ratio,1.26,1,N/A
+2-8-0-0-0 Protonated,7566750,9783948,N/A
+2-8-0-0-0 Protonated Ratio,1,1.29,N/A
+2-8-0-0-0 All Adducts,84108851,79972456.13,N/A
+2-8-0-0-0 All Ratio,1.05,1,N/A
+2-9-0-0-0 Protonated,995737700,724299300,N/A
+2-9-0-0-0 Protonated Ratio,1.37,1,N/A
+2-9-0-0-0 All Adducts,10535923856,6469161728,N/A
+2-9-0-0-0 All Ratio,1.63,1,N/A
+2-10-0-0-0 Protonated,52918800,29109580,N/A
+2-10-0-0-0 Protonated Ratio,1.82,1,N/A
+2-10-0-0-0 All Adducts,90436068,310270046,N/A
+2-10-0-0-0 All Ratio,1,3.43,N/A
+3-3-0-0-0 Protonated,254175200,35615640,N/A
+3-3-0-0-0 Protonated Ratio,7.14,1,N/A
+3-3-0-0-0 All Adducts,348727328,66360758,N/A
+3-3-0-0-0 All Ratio,5.26,1,N/A
+3-3-1-0-0 Protonated,37497140,33611910,N/A
+3-3-1-0-0 Protonated Ratio,1.12,1,N/A
+3-3-1-0-0 All Adducts,37497140,33611912,N/A
+3-3-1-0-0 All Ratio,1.12,1,N/A
+3-4-0-0-0 Protonated,57493520,47129070,N/A
+3-4-0-0-0 Protonated Ratio,1.22,1,N/A
+3-4-0-0-0 All Adducts,75963226,70385940,N/A
+3-4-0-0-0 All Ratio,1.08,1,N/A
+3-4-0-1-0 Protonated,86776030,51213180,N/A
+3-4-0-1-0 Protonated Ratio,1.69,1,N/A
+3-4-0-1-0 All Adducts,86776032,51213184,N/A
+3-4-0-1-0 All Ratio,1.69,1,N/A
+3-4-1-0-0 Protonated,71170790,12188040,N/A
+3-4-1-0-0 Protonated Ratio,5.84,1,N/A
+3-4-1-0-0 All Adducts,83870420,27217836.25,N/A
+3-4-1-0-0 All Ratio,3.08,1,N/A
+3-4-1-1-0 Protonated,29842980,26571960,N/A
+3-4-1-1-0 Protonated Ratio,1.12,1,N/A
+3-4-1-1-0 All Adducts,40108401,26571960,N/A
+3-4-1-1-0 All Ratio,1.51,1,N/A
+3-5-0-0-0 Protonated,6279063,614962.5,N/A
+3-5-0-0-0 Protonated Ratio,10.21,1,N/A
+3-5-0-0-0 All Adducts,37037229.13,614962.5,N/A
+3-5-0-0-0 All Ratio,60.23,1,N/A
+3-5-0-1-0 Protonated,8129536,4968243,N/A
+3-5-0-1-0 Protonated Ratio,1.64,1,N/A
+3-5-0-1-0 All Adducts,8129535.5,4968243,N/A
+3-5-0-1-0 All Ratio,1.64,1,N/A
+3-5-1-0-0 Protonated,4838698,3332905,N/A
+3-5-1-0-0 Protonated Ratio,1.45,1,N/A
+3-5-1-0-0 All Adducts,17705993,7426372.19,N/A
+3-5-1-0-0 All Ratio,2.38,1,N/A
+3-5-1-1-0 Protonated,433096500,118524400,N/A
+3-5-1-1-0 Protonated Ratio,3.65,1,N/A
+3-5-1-1-0 All Adducts,640794336,133595465,N/A
+3-5-1-1-0 All Ratio,4.8,1,N/A
+3-6-0-0-0 Protonated,33915480,18456300,N/A
+3-6-0-0-0 Protonated Ratio,1.84,1,N/A
+3-6-0-0-0 All Adducts,33915480,55051848,N/A
+3-6-0-0-0 All Ratio,1,1.62,N/A
+3-6-0-1-0 Protonated,724893.4,356129.7,N/A
+3-6-0-1-0 Protonated Ratio,2.04,1,N/A
+3-6-0-1-0 All Adducts,724893.38,543675.02,N/A
+3-6-0-1-0 All Ratio,1.33,1,N/A
+3-6-1-0-0 Protonated,77527820,136947400,N/A
+3-6-1-0-0 Protonated Ratio,1,1.77,N/A
+3-6-1-0-0 All Adducts,77527816,136947424,N/A
+3-6-1-0-0 All Ratio,1,1.77,N/A
+3-6-1-1-0 Protonated,325337200,161972900,N/A
+3-6-1-1-0 Protonated Ratio,2.01,1,N/A
+3-6-1-1-0 All Adducts,506276112,280313608,N/A
+3-6-1-1-0 All Ratio,1.81,1,N/A
+3-7-0-0-0 Protonated,147393.5,987783.4,N/A
+3-7-0-0-0 Protonated Ratio,1,6.7,N/A
+3-7-0-0-0 All Adducts,147393.5,987783.38,N/A
+3-7-0-0-0 All Ratio,1,6.7,N/A
+3-8-0-1-0 Protonated,39625080,34603540,N/A
+3-8-0-1-0 Protonated Ratio,1.15,1,N/A
+3-8-0-1-0 All Adducts,39625076,34603536,N/A
+3-8-0-1-0 All Ratio,1.15,1,N/A
+4-3-0-0-0 Protonated,879629100,242268000,N/A
+4-3-0-0-0 Protonated Ratio,3.63,1,N/A
+4-3-0-0-0 All Adducts,879629056,242267984,N/A
+4-3-0-0-0 All Ratio,3.63,1,N/A
+4-3-1-0-0 Protonated,4272042000,2313285000,N/A
+4-3-1-0-0 Protonated Ratio,1.85,1,N/A
+4-3-1-0-0 All Adducts,5876113920,3061344640,N/A
+4-3-1-0-0 All Ratio,1.92,1,N/A
+4-4-0-0-0 Protonated,516557000,768868000,N/A
+4-4-0-0-0 Protonated Ratio,1,1.49,N/A
+4-4-0-0-0 All Adducts,635423936,768868032,N/A
+4-4-0-0-0 All Ratio,1,1.21,N/A
+4-4-0-1-0 Protonated,152434000,41766610,N/A
+4-4-0-1-0 Protonated Ratio,3.65,1,N/A
+4-4-0-1-0 All Adducts,152433968,41766608,N/A
+4-4-0-1-0 All Ratio,3.65,1,N/A
+4-4-1-0-0 Protonated,1175576000,231744200,N/A
+4-4-1-0-0 Protonated Ratio,5.07,1,N/A
+4-4-1-0-0 All Adducts,1731977728,526782856,N/A
+4-4-1-0-0 All Ratio,3.29,1,N/A
+4-4-1-1-0 Protonated,410134000,266838800,N/A
+4-4-1-1-0 Protonated Ratio,1.54,1,N/A
+4-4-1-1-0 All Adducts,410133952,266838784,N/A
+4-4-1-1-0 All Ratio,1.54,1,N/A
+4-5-0-0-0 Protonated,87929700,105254600,N/A
+4-5-0-0-0 Protonated Ratio,1,1.2,N/A
+4-5-0-0-0 All Adducts,87929704,318920798,N/A
+4-5-0-0-0 All Ratio,1,3.63,N/A
+4-5-0-1-0 Protonated,717106800,652522600,N/A
+4-5-0-1-0 Protonated Ratio,1.1,1,N/A
+4-5-0-1-0 All Adducts,717106752,652522624,N/A
+4-5-0-1-0 All Ratio,1.1,1,N/A
+4-5-0-2-0 Protonated,1714124000,1009083000,N/A
+4-5-0-2-0 Protonated Ratio,1.7,1,N/A
+4-5-0-2-0 All Adducts,2534713984,1135930040,N/A
+4-5-0-2-0 All Ratio,2.23,1,N/A
+4-5-1-0-0 Protonated,273738300,166716400,N/A
+4-5-1-0-0 Protonated Ratio,1.64,1,N/A
+4-5-1-0-0 All Adducts,631137184,430345008,N/A
+4-5-1-0-0 All Ratio,1.47,1,N/A
+4-5-1-1-0 Protonated,470612600,147559300,N/A
+4-5-1-1-0 Protonated Ratio,3.19,1,N/A
+4-5-1-1-0 All Adducts,470612608,147559344,N/A
+4-5-1-1-0 All Ratio,3.19,1,N/A
+4-5-1-2-0 Protonated,382841300,229333800,N/A
+4-5-1-2-0 Protonated Ratio,1.67,1,N/A
+4-5-1-2-0 All Adducts,382841344,266338860,N/A
+4-5-1-2-0 All Ratio,1.44,1,N/A
+4-5-2-0-0 Protonated,1223858000,270892800,N/A
+4-5-2-0-0 Protonated Ratio,4.52,1,N/A
+4-5-2-0-0 All Adducts,3222072704,801634020,N/A
+4-5-2-0-0 All Ratio,4.02,1,N/A
+4-5-3-1-0 Protonated,31294.11,316416.1,N/A
+4-5-3-1-0 Protonated Ratio,1,10.11,N/A
+4-5-3-1-0 All Adducts,82176.45,316416.09,N/A
+4-5-3-1-0 All Ratio,1,3.85,N/A
+4-6-0-0-0 Protonated,3519810,300149.6,N/A
+4-6-0-0-0 Protonated Ratio,11.73,1,N/A
+4-6-0-0-0 All Adducts,3519809.5,434343.65,N/A
+4-6-0-0-0 All Ratio,8.1,1,N/A
+4-6-0-1-0 Protonated,1848440,604019.9,N/A
+4-6-0-1-0 Protonated Ratio,3.06,1,N/A
+4-6-0-1-0 All Adducts,3600791.88,3230977.16,N/A
+4-6-0-1-0 All Ratio,1.11,1,N/A
+4-6-0-2-0 Protonated,13806280,14935770,N/A
+4-6-0-2-0 Protonated Ratio,1,1.08,N/A
+4-6-0-2-0 All Adducts,13806275,14935772,N/A
+4-6-0-2-0 All Ratio,1,1.08,N/A
+4-6-1-0-0 Protonated,57698500,31659120,N/A
+4-6-1-0-0 Protonated Ratio,1.82,1,N/A
+4-6-1-0-0 All Adducts,57698496,31659118,N/A
+4-6-1-0-0 All Ratio,1.82,1,N/A
+4-6-1-1-0 Protonated,295810000,171504600,N/A
+4-6-1-1-0 Protonated Ratio,1.72,1,N/A
+4-6-1-1-0 All Adducts,338680064,171504592,N/A
+4-6-1-1-0 All Ratio,1.97,1,N/A
+4-6-1-2-0 Protonated,24287990,14241980,N/A
+4-6-1-2-0 Protonated Ratio,1.71,1,N/A
+4-6-1-2-0 All Adducts,27777995.5,16690383,N/A
+4-6-1-2-0 All Ratio,1.66,1,N/A
+4-7-0-0-0 Protonated,81955120,160786200,N/A
+4-7-0-0-0 Protonated Ratio,1,1.96,N/A
+4-7-0-0-0 All Adducts,81955120,160786224,N/A
+4-7-0-0-0 All Ratio,1,1.96,N/A
+4-7-0-1-0 Protonated,79205.17,169080.6,N/A
+4-7-0-1-0 Protonated Ratio,1,2.13,N/A
+4-7-0-1-0 All Adducts,157325.45,169080.58,N/A
+4-7-0-1-0 All Ratio,1,1.07,N/A
+4-7-0-2-0 Protonated,1427484,1480269,N/A
+4-7-0-2-0 Protonated Ratio,1,1.04,N/A
+4-7-0-2-0 All Adducts,1427484,1480269,N/A
+4-7-0-2-0 All Ratio,1,1.04,N/A
+4-7-1-0-0 Protonated,110137.7,179967.6,N/A
+4-7-1-0-0 Protonated Ratio,1,1.63,N/A
+4-7-1-0-0 All Adducts,273331.98,221346.86,N/A
+4-7-1-0-0 All Ratio,1.23,1,N/A
+4-7-1-1-0 Protonated,259262.6,228985.3,N/A
+4-7-1-1-0 Protonated Ratio,1.13,1,N/A
+4-7-1-1-0 All Adducts,289788.46,277753.77,N/A
+4-7-1-1-0 All Ratio,1.04,1,N/A
+4-7-1-2-0 Protonated,341618.8,106916.2,N/A
+4-7-1-2-0 Protonated Ratio,3.2,1,N/A
+4-7-1-2-0 All Adducts,341618.81,106916.2,N/A
+4-7-1-2-0 All Ratio,3.2,1,N/A
+4-8-0-0-0 Protonated,154728,98923.85,N/A
+4-8-0-0-0 Protonated Ratio,1.56,1,N/A
+4-8-0-0-0 All Adducts,416441.88,98923.85,N/A
+4-8-0-0-0 All Ratio,4.21,1,N/A
+4-9-0-0-0 Protonated,32816.7,6350.55,N/A
+4-9-0-0-0 Protonated Ratio,5.17,1,N/A
+4-9-0-0-0 All Adducts,32816.7,6350.55,N/A
+4-9-0-0-0 All Ratio,5.17,1,N/A
+4-10-0-0-0 Protonated,712294.2,560258.5,N/A
+4-10-0-0-0 Protonated Ratio,1.27,1,N/A
+4-10-0-0-0 All Adducts,1281985.91,795888.28,N/A
+4-10-0-0-0 All Ratio,1.61,1,N/A
+4-11-0-0-0 Protonated,61016.64,11247.66,N/A
+4-11-0-0-0 Protonated Ratio,5.42,1,N/A
+4-11-0-0-0 All Adducts,61016.64,11247.66,N/A
+4-11-0-0-0 All Ratio,5.42,1,N/A
+4-12-0-0-0 Protonated,69607.04,44828.61,N/A
+4-12-0-0-0 Protonated Ratio,1.55,1,N/A
+4-12-0-0-0 All Adducts,69607.04,44828.61,N/A
+4-12-0-0-0 All Ratio,1.55,1,N/A
+4-13-0-0-0 Protonated,38457.26,47860.8,N/A
+4-13-0-0-0 Protonated Ratio,1,1.24,N/A
+4-13-0-0-0 All Adducts,38457.26,90797.71,N/A
+4-13-0-0-0 All Ratio,1,2.36,N/A
+4-14-0-0-0 Protonated,1701984,2275415,N/A
+4-14-0-0-0 Protonated Ratio,1,1.34,N/A
+4-14-0-0-0 All Adducts,1949194.05,2275414.5,N/A
+4-14-0-0-0 All Ratio,1,1.17,N/A
+4-15-0-0-0 Protonated,106702.7,137148.8,N/A
+4-15-0-0-0 Protonated Ratio,1,1.29,N/A
+4-15-0-0-0 All Adducts,136421.41,182877.26,N/A
+4-15-0-0-0 All Ratio,1,1.34,N/A
+4-16-0-0-0 Protonated,276130.8,38409.88,N/A
+4-16-0-0-0 Protonated Ratio,7.19,1,N/A
+4-16-0-0-0 All Adducts,276130.81,38409.88,N/A
+4-16-0-0-0 All Ratio,7.19,1,N/A
+4-17-0-0-0 Protonated,237423.6,499224.9,N/A
+4-17-0-0-0 Protonated Ratio,1,2.1,N/A
+4-17-0-0-0 All Adducts,237423.58,558594.3,N/A
+4-17-0-0-0 All Ratio,1,2.35,N/A
+4-18-0-0-0 Protonated,59735.61,30167.42,N/A
+4-18-0-0-0 Protonated Ratio,1.98,1,N/A
+4-18-0-0-0 All Adducts,59735.61,30167.42,N/A
+4-18-0-0-0 All Ratio,1.98,1,N/A
+4-19-0-0-0 Protonated,86276.65,88695.45,N/A
+4-19-0-0-0 Protonated Ratio,1,1.03,N/A
+4-19-0-0-0 All Adducts,480334.27,584540.16,N/A
+4-19-0-0-0 All Ratio,1,1.22,N/A
+4-20-0-0-0 Protonated,0,8465.43,N/A
+4-20-0-0-0 Protonated Ratio,0,1,N/A
+4-20-0-0-0 All Adducts,0,27565.33,N/A
+4-20-0-0-0 All Ratio,0,1,N/A
+4-21-0-0-0 Protonated,0,5746.42,N/A
+4-21-0-0-0 Protonated Ratio,0,1,N/A
+4-21-0-0-0 All Adducts,0,5746.42,N/A
+4-21-0-0-0 All Ratio,0,1,N/A
+5-3-0-0-0 Protonated,15844030000,6637046000,N/A
+5-3-0-0-0 Protonated Ratio,2.39,1,N/A
+5-3-0-0-0 All Adducts,17507237120,7302184512,N/A
+5-3-0-0-0 All Ratio,2.4,1,N/A
+5-3-1-0-0 Protonated,59460530000,27089500000,N/A
+5-3-1-0-0 Protonated Ratio,2.19,1,N/A
+5-3-1-0-0 All Adducts,69051000832,30487383552,N/A
+5-3-1-0-0 All Ratio,2.26,1,N/A
+5-4-0-0-0 Protonated,157376100,83235180,N/A
+5-4-0-0-0 Protonated Ratio,1.89,1,N/A
+5-4-0-0-0 All Adducts,173261411,83235176,N/A
+5-4-0-0-0 All Ratio,2.08,1,N/A
+5-4-0-1-0 Protonated,92466900,40589650,N/A
+5-4-0-1-0 Protonated Ratio,2.28,1,N/A
+5-4-0-1-0 All Adducts,92466896,40589652,N/A
+5-4-0-1-0 All Ratio,2.28,1,N/A
+5-4-1-0-0 Protonated,1504062000,1690582000,N/A
+5-4-1-0-0 Protonated Ratio,1,1.12,N/A
+5-4-1-0-0 All Adducts,2072738816,2234495296,N/A
+5-4-1-0-0 All Ratio,1,1.08,N/A
+5-4-1-1-0 Protonated,1634388000,972855600,N/A
+5-4-1-1-0 Protonated Ratio,1.68,1,N/A
+5-4-1-1-0 All Adducts,1974153408,1198642848,N/A
+5-4-1-1-0 All Ratio,1.65,1,N/A
+5-5-0-0-0 Protonated,586166.8,555346.2,N/A
+5-5-0-0-0 Protonated Ratio,1.06,1,N/A
+5-5-0-0-0 All Adducts,586166.75,555346.19,N/A
+5-5-0-0-0 All Ratio,1.06,1,N/A
+5-5-0-1-0 Protonated,741403.7,320690.6,N/A
+5-5-0-1-0 Protonated Ratio,2.31,1,N/A
+5-5-0-1-0 All Adducts,741403.69,320690.59,N/A
+5-5-0-1-0 All Ratio,2.31,1,N/A
+5-5-0-2-0 Protonated,353525.1,192821.6,N/A
+5-5-0-2-0 Protonated Ratio,1.83,1,N/A
+5-5-0-2-0 All Adducts,353525.09,463992.53,N/A
+5-5-0-2-0 All Ratio,1,1.31,N/A
+5-5-1-0-0 Protonated,46721460,26542030,N/A
+5-5-1-0-0 Protonated Ratio,1.76,1,N/A
+5-5-1-0-0 All Adducts,46721456,26542028,N/A
+5-5-1-0-0 All Ratio,1.76,1,N/A
+5-5-1-1-0 Protonated,1239959,821732.3,N/A
+5-5-1-1-0 Protonated Ratio,1.51,1,N/A
+5-5-1-1-0 All Adducts,1239958.75,821732.31,N/A
+5-5-1-1-0 All Ratio,1.51,1,N/A
+5-5-1-2-0 Protonated,168562300,43392410,N/A
+5-5-1-2-0 Protonated Ratio,3.88,1,N/A
+5-5-1-2-0 All Adducts,201660204,61894538,N/A
+5-5-1-2-0 All Ratio,3.26,1,N/A
+5-6-0-0-0 Protonated,1311944,32425.6,N/A
+5-6-0-0-0 Protonated Ratio,40.46,1,N/A
+5-6-0-0-0 All Adducts,3625790.31,48744.79,N/A
+5-6-0-0-0 All Ratio,74.38,1,N/A
+5-6-0-1-0 Protonated,205666.6,53714.26,N/A
+5-6-0-1-0 Protonated Ratio,3.83,1,N/A
+5-6-0-1-0 All Adducts,205666.56,53714.26,N/A
+5-6-0-1-0 All Ratio,3.83,1,N/A
+5-6-0-2-0 Protonated,4364863,4151344,N/A
+5-6-0-2-0 Protonated Ratio,1.05,1,N/A
+5-6-0-2-0 All Adducts,4364863,4151343.75,N/A
+5-6-0-2-0 All Ratio,1.05,1,N/A
+5-6-0-3-0 Protonated,648404500,685885400,N/A
+5-6-0-3-0 Protonated Ratio,1,1.06,N/A
+5-6-0-3-0 All Adducts,648404544,685885440,N/A
+5-6-0-3-0 All Ratio,1,1.06,N/A
+5-6-0-4-0 Protonated,239620.2,247982,N/A
+5-6-0-4-0 Protonated Ratio,1,1.03,N/A
+5-6-0-4-0 All Adducts,1438077.24,275969,N/A
+5-6-0-4-0 All Ratio,5.21,1,N/A
+5-6-1-0-0 Protonated,11023620,6858887,N/A
+5-6-1-0-0 Protonated Ratio,1.61,1,N/A
+5-6-1-0-0 All Adducts,11023616,6858886.5,N/A
+5-6-1-0-0 All Ratio,1.61,1,N/A
+5-6-1-1-0 Protonated,4400320,4013008,N/A
+5-6-1-1-0 Protonated Ratio,1.1,1,N/A
+5-6-1-1-0 All Adducts,4400320,4013008.25,N/A
+5-6-1-1-0 All Ratio,1.1,1,N/A
+5-6-1-2-0 Protonated,10666170,7641555,N/A
+5-6-1-2-0 Protonated Ratio,1.4,1,N/A
+5-6-1-2-0 All Adducts,10666167,8940385.88,N/A
+5-6-1-2-0 All Ratio,1.19,1,N/A
+5-6-1-3-0 Protonated,162081400,79048470,N/A
+5-6-1-3-0 Protonated Ratio,2.05,1,N/A
+5-6-1-3-0 All Adducts,205905088,79048472,N/A
+5-6-1-3-0 All Ratio,2.6,1,N/A
+5-6-2-0-0 Protonated,7936923,5250953,N/A
+5-6-2-0-0 Protonated Ratio,1.51,1,N/A
+5-6-2-0-0 All Adducts,26360065,5250952.5,N/A
+5-6-2-0-0 All Ratio,5.02,1,N/A
+5-6-2-1-0 Protonated,2939353,1861404,N/A
+5-6-2-1-0 Protonated Ratio,1.58,1,N/A
+5-6-2-1-0 All Adducts,2939352.5,1861403.75,N/A
+5-6-2-1-0 All Ratio,1.58,1,N/A
+5-6-2-3-0 Protonated,77235470,24037600,N/A
+5-6-2-3-0 Protonated Ratio,3.21,1,N/A
+5-6-2-3-0 All Adducts,77235472,24037600,N/A
+5-6-2-3-0 All Ratio,3.21,1,N/A
+5-7-0-0-0 Protonated,10521190,4258277,N/A
+5-7-0-0-0 Protonated Ratio,2.47,1,N/A
+5-7-0-0-0 All Adducts,18137777.75,12633076.63,N/A
+5-7-0-0-0 All Ratio,1.44,1,N/A
+5-7-0-1-0 Protonated,54743.89,81123.61,N/A
+5-7-0-1-0 Protonated Ratio,1,1.48,N/A
+5-7-0-1-0 All Adducts,54743.89,81123.61,N/A
+5-7-0-1-0 All Ratio,1,1.48,N/A
+5-7-0-2-0 Protonated,16453.18,36920.08,N/A
+5-7-0-2-0 Protonated Ratio,1,2.24,N/A
+5-7-0-2-0 All Adducts,16453.18,36920.08,N/A
+5-7-0-2-0 All Ratio,1,2.24,N/A
+5-7-1-0-0 Protonated,2261896,885698.1,N/A
+5-7-1-0-0 Protonated Ratio,2.55,1,N/A
+5-7-1-0-0 All Adducts,4581571,2556776.06,N/A
+5-7-1-0-0 All Ratio,1.79,1,N/A
+5-7-1-1-0 Protonated,70713.91,18081.71,N/A
+5-7-1-1-0 Protonated Ratio,3.91,1,N/A
+5-7-1-1-0 All Adducts,154663.34,18081.71,N/A
+5-7-1-1-0 All Ratio,8.55,1,N/A
+5-7-1-2-0 Protonated,12729000,24838060,N/A
+5-7-1-2-0 Protonated Ratio,1,1.95,N/A
+5-7-1-2-0 All Adducts,15426565.75,28052161,N/A
+5-7-1-2-0 All Ratio,1,1.82,N/A
+5-7-2-1-0 Protonated,6850989,3738126,N/A
+5-7-2-1-0 Protonated Ratio,1.83,1,N/A
+5-7-2-1-0 All Adducts,9466560.75,5534744.88,N/A
+5-7-2-1-0 All Ratio,1.71,1,N/A
+5-8-0-0-0 Protonated,179112.8,230867.9,N/A
+5-8-0-0-0 Protonated Ratio,1,1.29,N/A
+5-8-0-0-0 All Adducts,179112.77,230867.88,N/A
+5-8-0-0-0 All Ratio,1,1.29,N/A
+5-8-0-1-0 Protonated,693565,1340281,N/A
+5-8-0-1-0 Protonated Ratio,1,1.93,N/A
+5-8-0-1-0 All Adducts,1742739.38,1340280.5,N/A
+5-8-0-1-0 All Ratio,1.3,1,N/A
+5-8-0-2-0 Protonated,219362.1,345185.3,N/A
+5-8-0-2-0 Protonated Ratio,1,1.57,N/A
+5-8-0-2-0 All Adducts,219362.09,1692095.69,N/A
+5-8-0-2-0 All Ratio,1,7.71,N/A
+5-8-1-0-0 Protonated,9887398,7323265,N/A
+5-8-1-0-0 Protonated Ratio,1.35,1,N/A
+5-8-1-0-0 All Adducts,9887398,7323265,N/A
+5-8-1-0-0 All Ratio,1.35,1,N/A
+5-8-1-1-0 Protonated,13254.69,36288.24,N/A
+5-8-1-1-0 Protonated Ratio,1,2.74,N/A
+5-8-1-1-0 All Adducts,74562.38,36288.24,N/A
+5-8-1-1-0 All Ratio,2.05,1,N/A
+5-8-1-2-0 Protonated,23871.59,33838.36,N/A
+5-8-1-2-0 Protonated Ratio,1,1.42,N/A
+5-8-1-2-0 All Adducts,23871.59,33838.36,N/A
+5-8-1-2-0 All Ratio,1,1.42,N/A
+5-8-2-0-0 Protonated,4690127,2544693,N/A
+5-8-2-0-0 Protonated Ratio,1.84,1,N/A
+5-8-2-0-0 All Adducts,4690127,2544693.25,N/A
+5-8-2-0-0 All Ratio,1.84,1,N/A
+5-8-2-1-0 Protonated,1930508,649805.7,N/A
+5-8-2-1-0 Protonated Ratio,2.97,1,N/A
+5-8-2-1-0 All Adducts,1930508,649805.69,N/A
+5-8-2-1-0 All Ratio,2.97,1,N/A
+5-8-3-1-0 Protonated,3396496,473700.8,N/A
+5-8-3-1-0 Protonated Ratio,7.17,1,N/A
+5-8-3-1-0 All Adducts,3396495.75,700418.41,N/A
+5-8-3-1-0 All Ratio,4.85,1,N/A
+6-3-0-0-0 Protonated,196881700,121259300,N/A
+6-3-0-0-0 Protonated Ratio,1.62,1,N/A
+6-3-0-0-0 All Adducts,216945396,121259296,N/A
+6-3-0-0-0 All Ratio,1.79,1,N/A
+6-3-1-0-0 Protonated,1373659000,1015616000,N/A
+6-3-1-0-0 Protonated Ratio,1.35,1,N/A
+6-3-1-0-0 All Adducts,1514136032,1150520336,N/A
+6-3-1-0-0 All Ratio,1.32,1,N/A
+6-3-2-0-0 Protonated,280957500,156030800,N/A
+6-3-2-0-0 Protonated Ratio,1.8,1,N/A
+6-3-2-0-0 All Adducts,280957504,156030752,N/A
+6-3-2-0-0 All Ratio,1.8,1,N/A
+6-4-0-0-0 Protonated,11131440,11589670,N/A
+6-4-0-0-0 Protonated Ratio,1,1.04,N/A
+6-4-0-0-0 All Adducts,16293257,11589674,N/A
+6-4-0-0-0 All Ratio,1.41,1,N/A
+6-4-0-1-0 Protonated,17924620,32021280,N/A
+6-4-0-1-0 Protonated Ratio,1,1.79,N/A
+6-4-0-1-0 All Adducts,17924624,37029646.5,N/A
+6-4-0-1-0 All Ratio,1,2.07,N/A
+6-4-1-0-0 Protonated,308258500,355837800,N/A
+6-4-1-0-0 Protonated Ratio,1,1.15,N/A
+6-4-1-0-0 All Adducts,308258528,419255396,N/A
+6-4-1-0-0 All Ratio,1,1.36,N/A
+6-4-1-1-0 Protonated,1666154000,1667645000,N/A
+6-4-1-1-0 Protonated Ratio,1,1,N/A
+6-4-1-1-0 All Adducts,2459538304,2077962240,N/A
+6-4-1-1-0 All Ratio,1.18,1,N/A
+6-5-0-0-0 Protonated,634327.1,370863.9,N/A
+6-5-0-0-0 Protonated Ratio,1.71,1,N/A
+6-5-0-0-0 All Adducts,634327.13,370863.91,N/A
+6-5-0-0-0 All Ratio,1.71,1,N/A
+6-5-0-1-0 Protonated,9569534,7978262,N/A
+6-5-0-1-0 Protonated Ratio,1.2,1,N/A
+6-5-0-1-0 All Adducts,11043613.25,7978261.5,N/A
+6-5-0-1-0 All Ratio,1.38,1,N/A
+6-5-0-2-0 Protonated,126259.1,55367.96,N/A
+6-5-0-2-0 Protonated Ratio,2.28,1,N/A
+6-5-0-2-0 All Adducts,126259.1,55367.96,N/A
+6-5-0-2-0 All Ratio,2.28,1,N/A
+6-5-1-0-0 Protonated,54928270,54486780,N/A
+6-5-1-0-0 Protonated Ratio,1.01,1,N/A
+6-5-1-0-0 All Adducts,68579428,54486780,N/A
+6-5-1-0-0 All Ratio,1.26,1,N/A
+6-5-1-1-0 Protonated,64666660,71364100,N/A
+6-5-1-1-0 Protonated Ratio,1,1.1,N/A
+6-5-1-1-0 All Adducts,71423448.5,71364096,N/A
+6-5-1-1-0 All Ratio,1,1,N/A
+6-5-1-2-0 Protonated,104816000,84822740,N/A
+6-5-1-2-0 Protonated Ratio,1.24,1,N/A
+6-5-1-2-0 All Adducts,104816048,84822744,N/A
+6-5-1-2-0 All Ratio,1.24,1,N/A
+6-6-0-0-0 Protonated,32495470,21715470,N/A
+6-6-0-0-0 Protonated Ratio,1.5,1,N/A
+6-6-0-0-0 All Adducts,47158626,21715474,N/A
+6-6-0-0-0 All Ratio,2.17,1,N/A
+6-6-0-1-0 Protonated,4016015,1081868,N/A
+6-6-0-1-0 Protonated Ratio,3.71,1,N/A
+6-6-0-1-0 All Adducts,4016015,9390438.25,N/A
+6-6-0-1-0 All Ratio,1,2.34,N/A
+6-6-0-2-0 Protonated,1759256,1056515,N/A
+6-6-0-2-0 Protonated Ratio,1.67,1,N/A
+6-6-0-2-0 All Adducts,1759256.25,1434241.45,N/A
+6-6-0-2-0 All Ratio,1.23,1,N/A
+6-6-0-3-0 Protonated,745166.4,323323.5,N/A
+6-6-0-3-0 Protonated Ratio,2.3,1,N/A
+6-6-0-3-0 All Adducts,2672355.38,1138907.79,N/A
+6-6-0-3-0 All Ratio,2.35,1,N/A
+6-6-1-0-0 Protonated,1522041,1392007,N/A
+6-6-1-0-0 Protonated Ratio,1.09,1,N/A
+6-6-1-0-0 All Adducts,1882464.56,1392007,N/A
+6-6-1-0-0 All Ratio,1.35,1,N/A
+6-6-1-1-0 Protonated,88371480,34521470,N/A
+6-6-1-1-0 Protonated Ratio,2.56,1,N/A
+6-6-1-1-0 All Adducts,88371480,34521468,N/A
+6-6-1-1-0 All Ratio,2.56,1,N/A
+6-6-1-2-0 Protonated,2933969,1300004,N/A
+6-6-1-2-0 Protonated Ratio,2.26,1,N/A
+6-6-1-2-0 All Adducts,2933969.25,2024027.56,N/A
+6-6-1-2-0 All Ratio,1.45,1,N/A
+6-6-1-3-0 Protonated,32305880,96390740,N/A
+6-6-1-3-0 Protonated Ratio,1,2.98,N/A
+6-6-1-3-0 All Adducts,32305882,96390736,N/A
+6-6-1-3-0 All Ratio,1,2.98,N/A
+6-7-0-0-0 Protonated,502266.7,1383897,N/A
+6-7-0-0-0 Protonated Ratio,1,2.76,N/A
+6-7-0-0-0 All Adducts,812837.5,1383897,N/A
+6-7-0-0-0 All Ratio,1,1.7,N/A
+6-7-0-1-0 Protonated,1193072,1948089,N/A
+6-7-0-1-0 Protonated Ratio,1,1.63,N/A
+6-7-0-1-0 All Adducts,1505137.13,1948088.88,N/A
+6-7-0-1-0 All Ratio,1,1.29,N/A
+6-7-0-2-0 Protonated,5271224,5337271,N/A
+6-7-0-2-0 Protonated Ratio,1,1.01,N/A
+6-7-0-2-0 All Adducts,7510090.75,14926363,N/A
+6-7-0-2-0 All Ratio,1,1.99,N/A
+6-7-0-3-0 Protonated,3687365,4352275,N/A
+6-7-0-3-0 Protonated Ratio,1,1.18,N/A
+6-7-0-3-0 All Adducts,12087589,6397675.81,N/A
+6-7-0-3-0 All Ratio,1.89,1,N/A
+6-7-0-4-0 Protonated,3505603,5922489,N/A
+6-7-0-4-0 Protonated Ratio,1,1.69,N/A
+6-7-0-4-0 All Adducts,4966988.5,7361369.5,N/A
+6-7-0-4-0 All Ratio,1,1.48,N/A
+6-7-1-0-0 Protonated,2475670,2089078,N/A
+6-7-1-0-0 Protonated Ratio,1.19,1,N/A
+6-7-1-0-0 All Adducts,2475669.5,2089077.75,N/A
+6-7-1-0-0 All Ratio,1.19,1,N/A
+6-7-1-1-0 Protonated,19135080,16246810,N/A
+6-7-1-1-0 Protonated Ratio,1.18,1,N/A
+6-7-1-1-0 All Adducts,30114523,21779075.5,N/A
+6-7-1-1-0 All Ratio,1.38,1,N/A
+6-7-1-2-0 Protonated,23165570,11183450,N/A
+6-7-1-2-0 Protonated Ratio,2.07,1,N/A
+6-7-1-2-0 All Adducts,23165568,11183450,N/A
+6-7-1-2-0 All Ratio,2.07,1,N/A
+6-7-1-3-0 Protonated,919663,523201.2,N/A
+6-7-1-3-0 Protonated Ratio,1.76,1,N/A
+6-7-1-3-0 All Adducts,919663,523201.19,N/A
+6-7-1-3-0 All Ratio,1.76,1,N/A
+6-7-1-4-0 Protonated,18115420,48959940,N/A
+6-7-1-4-0 Protonated Ratio,1,2.7,N/A
+6-7-1-4-0 All Adducts,20321211.25,48959944,N/A
+6-7-1-4-0 All Ratio,1,2.41,N/A
+6-7-2-3-0 Protonated,22282720,31603930,N/A
+6-7-2-3-0 Protonated Ratio,1,1.42,N/A
+6-7-2-3-0 All Adducts,22282722,31603926,N/A
+6-7-2-3-0 All Ratio,1,1.42,N/A
+6-7-2-4-0 Protonated,76126760,175378200,N/A
+6-7-2-4-0 Protonated Ratio,1,2.3,N/A
+6-7-2-4-0 All Adducts,76126760,175378240,N/A
+6-7-2-4-0 All Ratio,1,2.3,N/A
+6-7-3-2-0 Protonated,152780200,55278790,N/A
+6-7-3-2-0 Protonated Ratio,2.76,1,N/A
+6-7-3-2-0 All Adducts,152780160,55278792,N/A
+6-7-3-2-0 All Ratio,2.76,1,N/A
+6-7-3-3-0 Protonated,6387806,8913580,N/A
+6-7-3-3-0 Protonated Ratio,1,1.4,N/A
+6-7-3-3-0 All Adducts,7658093.5,9890145.75,N/A
+6-7-3-3-0 All Ratio,1,1.29,N/A
+6-7-3-4-0 Protonated,1167675,775294.3,N/A
+6-7-3-4-0 Protonated Ratio,1.51,1,N/A
+6-7-3-4-0 All Adducts,1167674.75,984040.91,N/A
+6-7-3-4-0 All Ratio,1.19,1,N/A
+6-8-0-0-0 Protonated,1533744,610678.4,N/A
+6-8-0-0-0 Protonated Ratio,2.51,1,N/A
+6-8-0-0-0 All Adducts,1533743.5,1006604.25,N/A
+6-8-0-0-0 All Ratio,1.52,1,N/A
+6-8-0-1-0 Protonated,886893.2,12188730,N/A
+6-8-0-1-0 Protonated Ratio,1,13.74,N/A
+6-8-0-1-0 All Adducts,35350347.22,12188726,N/A
+6-8-0-1-0 All Ratio,2.9,1,N/A
+6-8-0-2-0 Protonated,28493240,22485250,N/A
+6-8-0-2-0 Protonated Ratio,1.27,1,N/A
+6-8-0-2-0 All Adducts,28493244,22485248,N/A
+6-8-0-2-0 All Ratio,1.27,1,N/A
+6-8-1-0-0 Protonated,295545.5,239699.7,N/A
+6-8-1-0-0 Protonated Ratio,1.23,1,N/A
+6-8-1-0-0 All Adducts,1134693.03,239699.69,N/A
+6-8-1-0-0 All Ratio,4.73,1,N/A
+6-8-1-1-0 Protonated,4838140,4254955,N/A
+6-8-1-1-0 Protonated Ratio,1.14,1,N/A
+6-8-1-1-0 All Adducts,8916033.25,14077067.25,N/A
+6-8-1-1-0 All Ratio,1,1.58,N/A
+6-8-1-2-0 Protonated,877297.7,391408.5,N/A
+6-8-1-2-0 Protonated Ratio,2.24,1,N/A
+6-8-1-2-0 All Adducts,877297.69,391408.53,N/A
+6-8-1-2-0 All Ratio,2.24,1,N/A
+6-8-4-3-0 Protonated,30800.98,22445.09,N/A
+6-8-4-3-0 Protonated Ratio,1.37,1,N/A
+6-8-4-3-0 All Adducts,30800.98,22445.09,N/A
+6-8-4-3-0 All Ratio,1.37,1,N/A
+6-9-0-0-0 Protonated,6684456,13116920,N/A
+6-9-0-0-0 Protonated Ratio,1,1.96,N/A
+6-9-0-0-0 All Adducts,7786112.5,13116920,N/A
+6-9-0-0-0 All Ratio,1,1.68,N/A
+6-9-0-1-0 Protonated,167343.2,503175.9,N/A
+6-9-0-1-0 Protonated Ratio,1,3.01,N/A
+6-9-0-1-0 All Adducts,186600.46,503175.88,N/A
+6-9-0-1-0 All Ratio,1,2.7,N/A
+6-9-0-2-0 Protonated,154923300,308515200,N/A
+6-9-0-2-0 Protonated Ratio,1,1.99,N/A
+6-9-0-2-0 All Adducts,154923264,308515200,N/A
+6-9-0-2-0 All Ratio,1,1.99,N/A
+6-9-1-0-0 Protonated,206984.7,20986.18,N/A
+6-9-1-0-0 Protonated Ratio,9.86,1,N/A
+6-9-1-0-0 All Adducts,206984.7,20986.18,N/A
+6-9-1-0-0 All Ratio,9.86,1,N/A
+6-9-1-1-0 Protonated,3034733,3049414,N/A
+6-9-1-1-0 Protonated Ratio,1,1,N/A
+6-9-1-1-0 All Adducts,3398367.19,3049414.25,N/A
+6-9-1-1-0 All Ratio,1.11,1,N/A
+6-9-1-2-0 Protonated,1286086,943873.8,N/A
+6-9-1-2-0 Protonated Ratio,1.36,1,N/A
+6-9-1-2-0 All Adducts,1286085.5,943873.75,N/A
+6-9-1-2-0 All Ratio,1.36,1,N/A
+6-9-2-1-0 Protonated,16618.65,272368.7,N/A
+6-9-2-1-0 Protonated Ratio,1,16.39,N/A
+6-9-2-1-0 All Adducts,30057.15,272368.69,N/A
+6-9-2-1-0 All Ratio,1,9.06,N/A
+7-3-0-0-0 Protonated,4725.13,5672.75,N/A
+7-3-0-0-0 Protonated Ratio,1,1.2,N/A
+7-3-0-0-0 All Adducts,4725.13,5672.75,N/A
+7-3-0-0-0 All Ratio,1,1.2,N/A
+7-3-1-0-0 Protonated,30186940,17239670,N/A
+7-3-1-0-0 Protonated Ratio,1.75,1,N/A
+7-3-1-0-0 All Adducts,72081746,40138394,N/A
+7-3-1-0-0 All Ratio,1.8,1,N/A
+7-4-0-0-0 Protonated,25832.96,13232.17,N/A
+7-4-0-0-0 Protonated Ratio,1.95,1,N/A
+7-4-0-0-0 All Adducts,51297.37,13232.17,N/A
+7-4-0-0-0 All Ratio,3.88,1,N/A
+7-4-0-1-0 Protonated,1108572,376576.6,N/A
+7-4-0-1-0 Protonated Ratio,2.94,1,N/A
+7-4-0-1-0 All Adducts,1108572.38,1641949.81,N/A
+7-4-0-1-0 All Ratio,1,1.48,N/A
+7-4-1-0-0 Protonated,192995,20002.52,N/A
+7-4-1-0-0 Protonated Ratio,9.65,1,N/A
+7-4-1-0-0 All Adducts,192995,20002.52,N/A
+7-4-1-0-0 All Ratio,9.65,1,N/A
+7-4-1-1-0 Protonated,2498927,7887367,N/A
+7-4-1-1-0 Protonated Ratio,1,3.16,N/A
+7-4-1-1-0 All Adducts,2498927,7887367,N/A
+7-4-1-1-0 All Ratio,1,3.16,N/A
+7-5-0-0-0 Protonated,5860.26,293314.6,N/A
+7-5-0-0-0 Protonated Ratio,1,50.05,N/A
+7-5-0-0-0 All Adducts,5860.26,293314.59,N/A
+7-5-0-0-0 All Ratio,1,50.05,N/A
+7-5-0-1-0 Protonated,34338.64,264807.3,N/A
+7-5-0-1-0 Protonated Ratio,1,7.71,N/A
+7-5-0-1-0 All Adducts,34338.64,264807.31,N/A
+7-5-0-1-0 All Ratio,1,7.71,N/A
+7-5-0-2-0 Protonated,775963.3,514600.3,N/A
+7-5-0-2-0 Protonated Ratio,1.51,1,N/A
+7-5-0-2-0 All Adducts,935516.47,682559.1,N/A
+7-5-0-2-0 All Ratio,1.37,1,N/A
+7-5-1-0-0 Protonated,689628.4,150741.2,N/A
+7-5-1-0-0 Protonated Ratio,4.57,1,N/A
+7-5-1-0-0 All Adducts,5342038.13,438404.13,N/A
+7-5-1-0-0 All Ratio,12.19,1,N/A
+7-5-1-1-0 Protonated,5211511,4477202,N/A
+7-5-1-1-0 Protonated Ratio,1.16,1,N/A
+7-5-1-1-0 All Adducts,6759733.88,5726379.22,N/A
+7-5-1-1-0 All Ratio,1.18,1,N/A
+7-5-1-2-0 Protonated,55656930,10641820,N/A
+7-5-1-2-0 Protonated Ratio,5.23,1,N/A
+7-5-1-2-0 All Adducts,91416220,17393361.5,N/A
+7-5-1-2-0 All Ratio,5.26,1,N/A
+7-6-0-0-0 Protonated,86970.75,53344.92,N/A
+7-6-0-0-0 Protonated Ratio,1.63,1,N/A
+7-6-0-0-0 All Adducts,86970.75,53344.92,N/A
+7-6-0-0-0 All Ratio,1.63,1,N/A
+7-6-0-1-0 Protonated,19217.88,67392.06,N/A
+7-6-0-1-0 Protonated Ratio,1,3.51,N/A
+7-6-0-1-0 All Adducts,19217.88,67392.06,N/A
+7-6-0-1-0 All Ratio,1,3.51,N/A
+7-6-0-2-0 Protonated,4639344,3447444,N/A
+7-6-0-2-0 Protonated Ratio,1.35,1,N/A
+7-6-0-2-0 All Adducts,19474488.5,3447443.5,N/A
+7-6-0-2-0 All Ratio,5.65,1,N/A
+7-6-0-3-0 Protonated,18631370,5660790,N/A
+7-6-0-3-0 Protonated Ratio,3.29,1,N/A
+7-6-0-3-0 All Adducts,18631374,6667224.69,N/A
+7-6-0-3-0 All Ratio,2.79,1,N/A
+7-6-1-0-0 Protonated,34927.54,54363.25,N/A
+7-6-1-0-0 Protonated Ratio,1,1.56,N/A
+7-6-1-0-0 All Adducts,34927.54,54363.25,N/A
+7-6-1-0-0 All Ratio,1,1.56,N/A
+7-6-1-1-0 Protonated,270192.4,441145.8,N/A
+7-6-1-1-0 Protonated Ratio,1,1.63,N/A
+7-6-1-1-0 All Adducts,436097.61,441145.81,N/A
+7-6-1-1-0 All Ratio,1,1.01,N/A
+7-6-1-2-0 Protonated,2833176,1177426,N/A
+7-6-1-2-0 Protonated Ratio,2.41,1,N/A
+7-6-1-2-0 All Adducts,3419162.69,1529676.56,N/A
+7-6-1-2-0 All Ratio,2.24,1,N/A
+7-6-1-3-0 Protonated,3680927,6360743,N/A
+7-6-1-3-0 Protonated Ratio,1,1.73,N/A
+7-6-1-3-0 All Adducts,7963524.5,9806204,N/A
+7-6-1-3-0 All Ratio,1,1.23,N/A
+7-7-0-0-0 Protonated,160582.7,738016.6,N/A
+7-7-0-0-0 Protonated Ratio,1,4.6,N/A
+7-7-0-0-0 All Adducts,160582.67,738016.56,N/A
+7-7-0-0-0 All Ratio,1,4.6,N/A
+7-7-0-1-0 Protonated,230607.2,422015.1,N/A
+7-7-0-1-0 Protonated Ratio,1,1.83,N/A
+7-7-0-1-0 All Adducts,751353.98,627503.42,N/A
+7-7-0-1-0 All Ratio,1.2,1,N/A
+7-7-0-2-0 Protonated,8001395,6848380,N/A
+7-7-0-2-0 Protonated Ratio,1.17,1,N/A
+7-7-0-2-0 All Adducts,8001394.5,6848379.5,N/A
+7-7-0-2-0 All Ratio,1.17,1,N/A
+7-7-0-3-0 Protonated,984100.8,1103602,N/A
+7-7-0-3-0 Protonated Ratio,1,1.12,N/A
+7-7-0-3-0 All Adducts,1121179.83,10961266.75,N/A
+7-7-0-3-0 All Ratio,1,9.78,N/A
+7-7-0-4-0 Protonated,5295.37,10218.73,N/A
+7-7-0-4-0 Protonated Ratio,1,1.93,N/A
+7-7-0-4-0 All Adducts,5295.37,30912.33,N/A
+7-7-0-4-0 All Ratio,1,5.84,N/A
+7-7-1-0-0 Protonated,203713.4,344091.4,N/A
+7-7-1-0-0 Protonated Ratio,1,1.69,N/A
+7-7-1-0-0 All Adducts,290442.82,540874.88,N/A
+7-7-1-0-0 All Ratio,1,1.86,N/A
+7-7-1-1-0 Protonated,11453680,10420170,N/A
+7-7-1-1-0 Protonated Ratio,1.1,1,N/A
+7-7-1-1-0 All Adducts,11453677,10420172,N/A
+7-7-1-1-0 All Ratio,1.1,1,N/A
+7-7-1-2-0 Protonated,74005.34,101372.7,N/A
+7-7-1-2-0 Protonated Ratio,1,1.37,N/A
+7-7-1-2-0 All Adducts,115256.05,162935.15,N/A
+7-7-1-2-0 All Ratio,1,1.41,N/A
+7-7-1-3-0 Protonated,245698,336588.2,N/A
+7-7-1-3-0 Protonated Ratio,1,1.37,N/A
+7-7-1-3-0 All Adducts,405468.84,336588.16,N/A
+7-7-1-3-0 All Ratio,1.2,1,N/A
+7-7-1-4-0 Protonated,216230.2,447923.9,N/A
+7-7-1-4-0 Protonated Ratio,1,2.07,N/A
+7-7-1-4-0 All Adducts,2076205.08,447923.91,N/A
+7-7-1-4-0 All Ratio,4.64,1,N/A
+7-8-0-0-0 Protonated,2783.77,33946.11,N/A
+7-8-0-0-0 Protonated Ratio,1,12.19,N/A
+7-8-0-0-0 All Adducts,2783.77,74620.93,N/A
+7-8-0-0-0 All Ratio,1,26.81,N/A
+7-8-0-1-0 Protonated,11487830,83429780,N/A
+7-8-0-1-0 Protonated Ratio,1,7.26,N/A
+7-8-0-1-0 All Adducts,11487825,83429776,N/A
+7-8-0-1-0 All Ratio,1,7.26,N/A
+7-8-0-2-0 Protonated,836419.9,67195.56,N/A
+7-8-0-2-0 Protonated Ratio,12.45,1,N/A
+7-8-0-2-0 All Adducts,836419.94,67195.56,N/A
+7-8-0-2-0 All Ratio,12.45,1,N/A
+7-8-0-3-0 Protonated,14804420,10131230,N/A
+7-8-0-3-0 Protonated Ratio,1.46,1,N/A
+7-8-0-3-0 All Adducts,25247592.88,21476326.38,N/A
+7-8-0-3-0 All Ratio,1.18,1,N/A
+7-8-0-4-0 Protonated,9557.7,7587.32,N/A
+7-8-0-4-0 Protonated Ratio,1.26,1,N/A
+7-8-0-4-0 All Adducts,9557.7,7587.32,N/A
+7-8-0-4-0 All Ratio,1.26,1,N/A
+7-8-1-0-0 Protonated,71132.06,209621,N/A
+7-8-1-0-0 Protonated Ratio,1,2.95,N/A
+7-8-1-0-0 All Adducts,71132.06,538576.56,N/A
+7-8-1-0-0 All Ratio,1,7.57,N/A
+7-8-1-1-0 Protonated,2759492,5378651,N/A
+7-8-1-1-0 Protonated Ratio,1,1.95,N/A
+7-8-1-1-0 All Adducts,2759492,5378651,N/A
+7-8-1-1-0 All Ratio,1,1.95,N/A
+7-8-1-2-0 Protonated,2929235,3780893,N/A
+7-8-1-2-0 Protonated Ratio,1,1.29,N/A
+7-8-1-2-0 All Adducts,7886593,4569568.88,N/A
+7-8-1-2-0 All Ratio,1.73,1,N/A
+7-8-1-3-0 Protonated,143007.7,159223.6,N/A
+7-8-1-3-0 Protonated Ratio,1,1.11,N/A
+7-8-1-3-0 All Adducts,1712822.2,2252165.91,N/A
+7-8-1-3-0 All Ratio,1,1.31,N/A
+7-8-1-4-0 Protonated,67729.65,71406.55,N/A
+7-8-1-4-0 Protonated Ratio,1,1.05,N/A
+7-8-1-4-0 All Adducts,603343.3,192659.52,N/A
+7-8-1-4-0 All Ratio,3.13,1,N/A
+7-9-0-0-0 Protonated,0,31117.51,N/A
+7-9-0-0-0 Protonated Ratio,0,1,N/A
+7-9-0-0-0 All Adducts,0,49131.33,N/A
+7-9-0-0-0 All Ratio,0,1,N/A
+7-9-0-1-0 Protonated,13802.22,33385.13,N/A
+7-9-0-1-0 Protonated Ratio,1,2.42,N/A
+7-9-0-1-0 All Adducts,13802.22,33385.13,N/A
+7-9-0-1-0 All Ratio,1,2.42,N/A
+7-9-0-2-0 Protonated,207827.2,418087.4,N/A
+7-9-0-2-0 Protonated Ratio,1,2.01,N/A
+7-9-0-2-0 All Adducts,207827.2,418087.41,N/A
+7-9-0-2-0 All Ratio,1,2.01,N/A
+7-9-1-0-0 Protonated,15391.95,24982.33,N/A
+7-9-1-0-0 Protonated Ratio,1,1.62,N/A
+7-9-1-0-0 All Adducts,68661.19,24982.33,N/A
+7-9-1-0-0 All Ratio,2.75,1,N/A
+7-9-1-1-0 Protonated,447268.1,102486.5,N/A
+7-9-1-1-0 Protonated Ratio,4.36,1,N/A
+7-9-1-1-0 All Adducts,447268.13,102486.5,N/A
+7-9-1-1-0 All Ratio,4.36,1,N/A
+7-9-1-2-0 Protonated,294760.2,101915.4,N/A
+7-9-1-2-0 Protonated Ratio,2.89,1,N/A
+7-9-1-2-0 All Adducts,3934308.21,319449.06,N/A
+7-9-1-2-0 All Ratio,12.32,1,N/A
+8-4-0-0-0 Protonated,2091764,878607.2,N/A
+8-4-0-0-0 Protonated Ratio,2.38,1,N/A
+8-4-0-0-0 All Adducts,2091763.5,1134375.23,N/A
+8-4-0-0-0 All Ratio,1.84,1,N/A
+8-4-1-0-0 Protonated,22372120,21116120,N/A
+8-4-1-0-0 Protonated Ratio,1.06,1,N/A
+8-4-1-0-0 All Adducts,25701714.75,41345310,N/A
+8-4-1-0-0 All Ratio,1,1.61,N/A
+8-5-0-0-0 Protonated,25376640,10496630,N/A
+8-5-0-0-0 Protonated Ratio,2.42,1,N/A
+8-5-0-0-0 All Adducts,25376640,10496625,N/A
+8-5-0-0-0 All Ratio,2.42,1,N/A
+8-5-0-1-0 Protonated,90897.96,26712.07,N/A
+8-5-0-1-0 Protonated Ratio,3.4,1,N/A
+8-5-0-1-0 All Adducts,827742.9,26712.07,N/A
+8-5-0-1-0 All Ratio,30.99,1,N/A
+8-5-1-0-0 Protonated,4275506,5123375,N/A
+8-5-1-0-0 Protonated Ratio,1,1.2,N/A
+8-5-1-0-0 All Adducts,4275506,5123375,N/A
+8-5-1-0-0 All Ratio,1,1.2,N/A
+8-5-1-1-0 Protonated,2753.68,6037.71,N/A
+8-5-1-1-0 Protonated Ratio,1,2.19,N/A
+8-5-1-1-0 All Adducts,2753.68,6037.71,N/A
+8-5-1-1-0 All Ratio,1,2.19,N/A
+8-6-0-0-0 Protonated,48335680,26136700,N/A
+8-6-0-0-0 Protonated Ratio,1.85,1,N/A
+8-6-0-0-0 All Adducts,48335676,26136696,N/A
+8-6-0-0-0 All Ratio,1.85,1,N/A
+8-6-0-1-0 Protonated,12202.91,13660.72,N/A
+8-6-0-1-0 Protonated Ratio,1,1.12,N/A
+8-6-0-1-0 All Adducts,73485.76,13660.72,N/A
+8-6-0-1-0 All Ratio,5.38,1,N/A
+8-6-0-2-0 Protonated,155814600,94066840,N/A
+8-6-0-2-0 Protonated Ratio,1.66,1,N/A
+8-6-0-2-0 All Adducts,155814592,94066840,N/A
+8-6-0-2-0 All Ratio,1.66,1,N/A
+8-6-1-0-0 Protonated,18301620,12670980,N/A
+8-6-1-0-0 Protonated Ratio,1.44,1,N/A
+8-6-1-0-0 All Adducts,18301616,12670975,N/A
+8-6-1-0-0 All Ratio,1.44,1,N/A
+8-6-1-1-0 Protonated,16244.1,19061.72,N/A
+8-6-1-1-0 Protonated Ratio,1,1.17,N/A
+8-6-1-1-0 All Adducts,16244.1,19061.72,N/A
+8-6-1-1-0 All Ratio,1,1.17,N/A
+8-6-1-2-0 Protonated,13303.09,52886.59,N/A
+8-6-1-2-0 Protonated Ratio,1,3.98,N/A
+8-6-1-2-0 All Adducts,25162.64,52886.59,N/A
+8-6-1-2-0 All Ratio,1,2.1,N/A
+8-7-0-0-0 Protonated,76704020,37134460,N/A
+8-7-0-0-0 Protonated Ratio,2.07,1,N/A
+8-7-0-0-0 All Adducts,76704016,37134464,N/A
+8-7-0-0-0 All Ratio,2.07,1,N/A
+8-7-0-1-0 Protonated,19016.21,24895.16,N/A
+8-7-0-1-0 Protonated Ratio,1,1.31,N/A
+8-7-0-1-0 All Adducts,41560.6,59403.81,N/A
+8-7-0-1-0 All Ratio,1,1.43,N/A
+8-7-0-2-0 Protonated,15437520,2159716,N/A
+8-7-0-2-0 Protonated Ratio,7.15,1,N/A
+8-7-0-2-0 All Adducts,15437517,4569250.56,N/A
+8-7-0-2-0 All Ratio,3.38,1,N/A
+8-7-0-3-0 Protonated,273828.1,88512.7,N/A
+8-7-0-3-0 Protonated Ratio,3.09,1,N/A
+8-7-0-3-0 All Adducts,273828.09,88512.7,N/A
+8-7-0-3-0 All Ratio,3.09,1,N/A
+8-7-1-0-0 Protonated,8993290,3840353,N/A
+8-7-1-0-0 Protonated Ratio,2.34,1,N/A
+8-7-1-0-0 All Adducts,8993290,3840353,N/A
+8-7-1-0-0 All Ratio,2.34,1,N/A
+8-7-1-1-0 Protonated,28014.98,44536.23,N/A
+8-7-1-1-0 Protonated Ratio,1,1.59,N/A
+8-7-1-1-0 All Adducts,114901.46,44536.23,N/A
+8-7-1-1-0 All Ratio,2.58,1,N/A
+8-7-1-2-0 Protonated,110256100,227137400,N/A
+8-7-1-2-0 Protonated Ratio,1,2.06,N/A
+8-7-1-2-0 All Adducts,268038680,467149392,N/A
+8-7-1-2-0 All Ratio,1,1.74,N/A
+8-7-1-3-0 Protonated,135238.3,245829.1,N/A
+8-7-1-3-0 Protonated Ratio,1,1.82,N/A
+8-7-1-3-0 All Adducts,860026.87,1557809.66,N/A
+8-7-1-3-0 All Ratio,1,1.81,N/A
+8-8-0-0-0 Protonated,45393.2,39501.52,N/A
+8-8-0-0-0 Protonated Ratio,1.15,1,N/A
+8-8-0-0-0 All Adducts,45393.2,84644.63,N/A
+8-8-0-0-0 All Ratio,1,1.86,N/A
+8-8-0-1-0 Protonated,724075.8,884649.6,N/A
+8-8-0-1-0 Protonated Ratio,1,1.22,N/A
+8-8-0-1-0 All Adducts,724075.81,884649.63,N/A
+8-8-0-1-0 All Ratio,1,1.22,N/A
+8-8-0-2-0 Protonated,405698800,400984700,N/A
+8-8-0-2-0 Protonated Ratio,1.01,1,N/A
+8-8-0-2-0 All Adducts,405698816,400984672,N/A
+8-8-0-2-0 All Ratio,1.01,1,N/A
+8-8-0-3-0 Protonated,10055.2,28945.79,N/A
+8-8-0-3-0 Protonated Ratio,1,2.88,N/A
+8-8-0-3-0 All Adducts,10055.2,89765.45,N/A
+8-8-0-3-0 All Ratio,1,8.93,N/A
+8-8-0-4-0 Protonated,500194.2,282683,N/A
+8-8-0-4-0 Protonated Ratio,1.77,1,N/A
+8-8-0-4-0 All Adducts,599490.72,662272.21,N/A
+8-8-0-4-0 All Ratio,1,1.1,N/A
+8-8-1-0-0 Protonated,15384650,8176285,N/A
+8-8-1-0-0 Protonated Ratio,1.88,1,N/A
+8-8-1-0-0 All Adducts,15384649,8176285,N/A
+8-8-1-0-0 All Ratio,1.88,1,N/A
+8-8-1-1-0 Protonated,19031.78,39675.5,N/A
+8-8-1-1-0 Protonated Ratio,1,2.08,N/A
+8-8-1-1-0 All Adducts,19031.78,39675.5,N/A
+8-8-1-1-0 All Ratio,1,2.08,N/A
+8-8-1-2-0 Protonated,6370982,1893396,N/A
+8-8-1-2-0 Protonated Ratio,3.36,1,N/A
+8-8-1-2-0 All Adducts,7358786.88,1893395.5,N/A
+8-8-1-2-0 All Ratio,3.89,1,N/A
+8-8-1-3-0 Protonated,28328.73,44146.95,N/A
+8-8-1-3-0 Protonated Ratio,1,1.56,N/A
+8-8-1-3-0 All Adducts,28328.73,44146.95,N/A
+8-8-1-3-0 All Ratio,1,1.56,N/A
+8-8-1-4-0 Protonated,0,108387.3,N/A
+8-8-1-4-0 Protonated Ratio,0,1,N/A
+8-8-1-4-0 All Adducts,0,280134.71,N/A
+8-8-1-4-0 All Ratio,0,1,N/A
+8-9-0-0-0 Protonated,8358701,5345212,N/A
+8-9-0-0-0 Protonated Ratio,1.56,1,N/A
+8-9-0-0-0 All Adducts,8358701,5345211.5,N/A
+8-9-0-0-0 All Ratio,1.56,1,N/A
+8-9-0-1-0 Protonated,16207.38,18653.24,N/A
+8-9-0-1-0 Protonated Ratio,1,1.15,N/A
+8-9-0-1-0 All Adducts,45377.38,60467.93,N/A
+8-9-0-1-0 All Ratio,1,1.33,N/A
+8-9-0-2-0 Protonated,2750444,3829998,N/A
+8-9-0-2-0 Protonated Ratio,1,1.39,N/A
+8-9-0-2-0 All Adducts,3084139.75,3829998.25,N/A
+8-9-0-2-0 All Ratio,1,1.24,N/A
+8-9-0-3-0 Protonated,156143.7,138279,N/A
+8-9-0-3-0 Protonated Ratio,1.13,1,N/A
+8-9-0-3-0 All Adducts,156143.73,188579.22,N/A
+8-9-0-3-0 All Ratio,1,1.21,N/A
+8-9-0-4-0 Protonated,152424.2,106568.4,N/A
+8-9-0-4-0 Protonated Ratio,1.43,1,N/A
+8-9-0-4-0 All Adducts,1401584.4,538806.84,N/A
+8-9-0-4-0 All Ratio,2.6,1,N/A
+8-9-1-0-0 Protonated,1884721,2183236,N/A
+8-9-1-0-0 Protonated Ratio,1,1.16,N/A
+8-9-1-0-0 All Adducts,1884720.75,2498273.84,N/A
+8-9-1-0-0 All Ratio,1,1.33,N/A
+8-9-1-1-0 Protonated,98164.54,61172.51,N/A
+8-9-1-1-0 Protonated Ratio,1.6,1,N/A
+8-9-1-1-0 All Adducts,98164.54,99955.11,N/A
+8-9-1-1-0 All Ratio,1,1.02,N/A
+8-9-1-2-0 Protonated,1878309,839921.3,N/A
+8-9-1-2-0 Protonated Ratio,2.24,1,N/A
+8-9-1-2-0 All Adducts,1878309,839921.25,N/A
+8-9-1-2-0 All Ratio,2.24,1,N/A
+8-9-1-3-0 Protonated,197193.2,7947849,N/A
+8-9-1-3-0 Protonated Ratio,1,40.3,N/A
+8-9-1-3-0 All Adducts,326474.83,7947849,N/A
+8-9-1-3-0 All Ratio,1,24.34,N/A
+8-9-1-4-0 Protonated,132588.2,141876.2,N/A
+8-9-1-4-0 Protonated Ratio,1,1.07,N/A
+8-9-1-4-0 All Adducts,132588.19,551928.25,N/A
+8-9-1-4-0 All Ratio,1,4.16,N/A
+9-5-0-0-0 Protonated,13998.74,60992.96,N/A
+9-5-0-0-0 Protonated Ratio,1,4.36,N/A
+9-5-0-0-0 All Adducts,23401.26,60992.96,N/A
+9-5-0-0-0 All Ratio,1,2.61,N/A
+9-5-1-0-0 Protonated,86113.9,9029.73,N/A
+9-5-1-0-0 Protonated Ratio,9.54,1,N/A
+9-5-1-0-0 All Adducts,86113.9,9029.73,N/A
+9-5-1-0-0 All Ratio,9.54,1,N/A
+9-6-0-0-0 Protonated,15076.56,13283.56,N/A
+9-6-0-0-0 Protonated Ratio,1.13,1,N/A
+9-6-0-0-0 All Adducts,15076.56,30004.23,N/A
+9-6-0-0-0 All Ratio,1,1.99,N/A
+9-6-0-1-0 Protonated,9570641,6972556,N/A
+9-6-0-1-0 Protonated Ratio,1.37,1,N/A
+9-6-0-1-0 All Adducts,16304125.63,16059366.06,N/A
+9-6-0-1-0 All Ratio,1.02,1,N/A
+9-6-1-0-0 Protonated,354985.1,373375.2,N/A
+9-6-1-0-0 Protonated Ratio,1,1.05,N/A
+9-6-1-0-0 All Adducts,3122766.56,1130168.84,N/A
+9-6-1-0-0 All Ratio,2.76,1,N/A
+9-6-1-1-0 Protonated,6628533,2805234,N/A
+9-6-1-1-0 Protonated Ratio,2.36,1,N/A
+9-6-1-1-0 All Adducts,10674539,3468005.25,N/A
+9-6-1-1-0 All Ratio,3.08,1,N/A
+9-7-0-0-0 Protonated,109953.4,1011251,N/A
+9-7-0-0-0 Protonated Ratio,1,9.2,N/A
+9-7-0-0-0 All Adducts,109953.36,1011251,N/A
+9-7-0-0-0 All Ratio,1,9.2,N/A
+9-7-0-1-0 Protonated,1620355,2576181,N/A
+9-7-0-1-0 Protonated Ratio,1,1.59,N/A
+9-7-0-1-0 All Adducts,1620355.13,2576181,N/A
+9-7-0-1-0 All Ratio,1,1.59,N/A
+9-7-0-2-0 Protonated,142869.3,116646,N/A
+9-7-0-2-0 Protonated Ratio,1.22,1,N/A
+9-7-0-2-0 All Adducts,267605.46,244277.57,N/A
+9-7-0-2-0 All Ratio,1.1,1,N/A
+9-7-1-0-0 Protonated,283118.2,219763.5,N/A
+9-7-1-0-0 Protonated Ratio,1.29,1,N/A
+9-7-1-0-0 All Adducts,283118.16,545210.87,N/A
+9-7-1-0-0 All Ratio,1,1.93,N/A
+9-7-1-1-0 Protonated,3744655,13625670,N/A
+9-7-1-1-0 Protonated Ratio,1,3.64,N/A
+9-7-1-1-0 All Adducts,3744655,13625674,N/A
+9-7-1-1-0 All Ratio,1,3.64,N/A
+9-7-1-2-0 Protonated,11746.41,24155.24,N/A
+9-7-1-2-0 Protonated Ratio,1,2.06,N/A
+9-7-1-2-0 All Adducts,11746.41,37348.32,N/A
+9-7-1-2-0 All Ratio,1,3.18,N/A
+9-8-0-0-0 Protonated,21977.31,25016.81,N/A
+9-8-0-0-0 Protonated Ratio,1,1.14,N/A
+9-8-0-0-0 All Adducts,21977.31,25016.81,N/A
+9-8-0-0-0 All Ratio,1,1.14,N/A
+9-8-0-1-0 Protonated,1972137,8954260,N/A
+9-8-0-1-0 Protonated Ratio,1,4.54,N/A
+9-8-0-1-0 All Adducts,1972137,8954260,N/A
+9-8-0-1-0 All Ratio,1,4.54,N/A
+9-8-0-2-0 Protonated,13183.62,9753.28,N/A
+9-8-0-2-0 Protonated Ratio,1.35,1,N/A
+9-8-0-2-0 All Adducts,73027.28,9753.28,N/A
+9-8-0-2-0 All Ratio,7.49,1,N/A
+9-8-0-3-0 Protonated,122073.8,107701.2,N/A
+9-8-0-3-0 Protonated Ratio,1.13,1,N/A
+9-8-0-3-0 All Adducts,146668.44,367957.71,N/A
+9-8-0-3-0 All Ratio,1,2.51,N/A
+9-8-1-0-0 Protonated,882264.2,602088.9,N/A
+9-8-1-0-0 Protonated Ratio,1.47,1,N/A
+9-8-1-0-0 All Adducts,882264.19,1763317.17,N/A
+9-8-1-0-0 All Ratio,1,2,N/A
+9-8-1-1-0 Protonated,19824250,28768020,N/A
+9-8-1-1-0 Protonated Ratio,1,1.45,N/A
+9-8-1-1-0 All Adducts,26930545.25,35675617,N/A
+9-8-1-1-0 All Ratio,1,1.32,N/A
+9-8-1-2-0 Protonated,304339.4,792967.1,N/A
+9-8-1-2-0 Protonated Ratio,1,2.61,N/A
+9-8-1-2-0 All Adducts,4118973.19,1073362.63,N/A
+9-8-1-2-0 All Ratio,3.84,1,N/A
+9-8-1-3-0 Protonated,212408.2,402729.2,N/A
+9-8-1-3-0 Protonated Ratio,1,1.9,N/A
+9-8-1-3-0 All Adducts,212408.16,460440.73,N/A
+9-8-1-3-0 All Ratio,1,2.17,N/A
+9-9-0-0-0 Protonated,17474.22,577606.4,N/A
+9-9-0-0-0 Protonated Ratio,1,33.05,N/A
+9-9-0-0-0 All Adducts,17474.22,577606.38,N/A
+9-9-0-0-0 All Ratio,1,33.05,N/A
+9-9-0-1-0 Protonated,14128400,5728060,N/A
+9-9-0-1-0 Protonated Ratio,2.47,1,N/A
+9-9-0-1-0 All Adducts,14128403,5728060,N/A
+9-9-0-1-0 All Ratio,2.47,1,N/A
+9-9-0-2-0 Protonated,215575.2,209565.6,N/A
+9-9-0-2-0 Protonated Ratio,1.03,1,N/A
+9-9-0-2-0 All Adducts,273496.79,250360.49,N/A
+9-9-0-2-0 All Ratio,1.09,1,N/A
+9-9-0-3-0 Protonated,2897377,7328748,N/A
+9-9-0-3-0 Protonated Ratio,1,2.53,N/A
+9-9-0-3-0 All Adducts,6501938.44,10808218.75,N/A
+9-9-0-3-0 All Ratio,1,1.66,N/A
+9-9-0-4-0 Protonated,0,6821.42,N/A
+9-9-0-4-0 Protonated Ratio,0,1,N/A
+9-9-0-4-0 All Adducts,0,6821.42,N/A
+9-9-0-4-0 All Ratio,0,1,N/A
+9-9-1-0-0 Protonated,13709.7,14419.05,N/A
+9-9-1-0-0 Protonated Ratio,1,1.05,N/A
+9-9-1-0-0 All Adducts,13709.7,14419.05,N/A
+9-9-1-0-0 All Ratio,1,1.05,N/A
+9-9-1-1-0 Protonated,431957.9,193134.3,N/A
+9-9-1-1-0 Protonated Ratio,2.24,1,N/A
+9-9-1-1-0 All Adducts,431957.91,193134.3,N/A
+9-9-1-1-0 All Ratio,2.24,1,N/A
+9-9-1-2-0 Protonated,238914.3,316772.6,N/A
+9-9-1-2-0 Protonated Ratio,1,1.33,N/A
+9-9-1-2-0 All Adducts,948216.77,2039108.92,N/A
+9-9-1-2-0 All Ratio,1,2.15,N/A
+9-9-1-3-0 Protonated,9561321,16487650,N/A
+9-9-1-3-0 Protonated Ratio,1,1.72,N/A
+9-9-1-3-0 All Adducts,9561321,16487654,N/A
+9-9-1-3-0 All Ratio,1,1.72,N/A
+9-9-1-4-0 Protonated,4578.39,6260.48,N/A
+9-9-1-4-0 Protonated Ratio,1,1.37,N/A
+9-9-1-4-0 All Adducts,4578.38,6260.48,N/A
+9-9-1-4-0 All Ratio,1,1.37,N/A
+9-10-0-0-0 Protonated,26285.22,20155.57,N/A
+9-10-0-0-0 Protonated Ratio,1.3,1,N/A
+9-10-0-0-0 All Adducts,26285.22,20155.57,N/A
+9-10-0-0-0 All Ratio,1.3,1,N/A
+9-10-0-1-0 Protonated,64024.15,63100.54,N/A
+9-10-0-1-0 Protonated Ratio,1.01,1,N/A
+9-10-0-1-0 All Adducts,64024.15,63100.54,N/A
+9-10-0-1-0 All Ratio,1.01,1,N/A
+9-10-0-2-0 Protonated,6435.51,25289.54,N/A
+9-10-0-2-0 Protonated Ratio,1,3.93,N/A
+9-10-0-2-0 All Adducts,6435.51,40992.01,N/A
+9-10-0-2-0 All Ratio,1,6.37,N/A
+9-10-0-3-0 Protonated,503636.2,402888.4,N/A
+9-10-0-3-0 Protonated Ratio,1.25,1,N/A
+9-10-0-3-0 All Adducts,503636.19,402888.41,N/A
+9-10-0-3-0 All Ratio,1.25,1,N/A
+9-10-0-4-0 Protonated,5715.89,4911.86,N/A
+9-10-0-4-0 Protonated Ratio,1.16,1,N/A
+9-10-0-4-0 All Adducts,5715.89,4911.86,N/A
+9-10-0-4-0 All Ratio,1.16,1,N/A
+9-10-1-0-0 Protonated,101694,114186.9,N/A
+9-10-1-0-0 Protonated Ratio,1,1.12,N/A
+9-10-1-0-0 All Adducts,385135.88,376192.43,N/A
+9-10-1-0-0 All Ratio,1.02,1,N/A
+9-10-1-1-0 Protonated,3443151,1131057,N/A
+9-10-1-1-0 Protonated Ratio,3.04,1,N/A
+9-10-1-1-0 All Adducts,3443150.75,1328498.5,N/A
+9-10-1-1-0 All Ratio,2.59,1,N/A
+9-10-1-2-0 Protonated,19886.76,25362.39,N/A
+9-10-1-2-0 Protonated Ratio,1,1.28,N/A
+9-10-1-2-0 All Adducts,62101.7,77417.84,N/A
+9-10-1-2-0 All Ratio,1,1.25,N/A
+9-10-1-3-0 Protonated,48804.39,29725.24,N/A
+9-10-1-3-0 Protonated Ratio,1.64,1,N/A
+9-10-1-3-0 All Adducts,48804.39,29725.24,N/A
+9-10-1-3-0 All Ratio,1.64,1,N/A
+9-10-1-4-0 Protonated,3373808,4528519,N/A
+9-10-1-4-0 Protonated Ratio,1,1.34,N/A
+9-10-1-4-0 All Adducts,4691160.5,6080303.63,N/A
+9-10-1-4-0 All Ratio,1,1.3,N/A
+10-6-0-0-0 Protonated,2845185,2716739,N/A
+10-6-0-0-0 Protonated Ratio,1.05,1,N/A
+10-6-0-0-0 All Adducts,2845185,2716738.5,N/A
+10-6-0-0-0 All Ratio,1.05,1,N/A
+10-6-1-0-0 Protonated,5593464,6578699,N/A
+10-6-1-0-0 Protonated Ratio,1,1.18,N/A
+10-6-1-0-0 All Adducts,6753588.38,6578698.5,N/A
+10-6-1-0-0 All Ratio,1.03,1,N/A
+10-7-0-0-0 Protonated,1070594,626890.5,N/A
+10-7-0-0-0 Protonated Ratio,1.71,1,N/A
+10-7-0-0-0 All Adducts,1070594,626890.5,N/A
+10-7-0-0-0 All Ratio,1.71,1,N/A
+10-7-0-1-0 Protonated,5915.83,11655.31,N/A
+10-7-0-1-0 Protonated Ratio,1,1.97,N/A
+10-7-0-1-0 All Adducts,12078.55,28394.55,N/A
+10-7-0-1-0 All Ratio,1,2.35,N/A
+10-7-1-0-0 Protonated,8709.56,13377.08,N/A
+10-7-1-0-0 Protonated Ratio,1,1.54,N/A
+10-7-1-0-0 All Adducts,8709.56,30048.17,N/A
+10-7-1-0-0 All Ratio,1,3.45,N/A
+10-7-1-1-0 Protonated,2217502,1427054,N/A
+10-7-1-1-0 Protonated Ratio,1.55,1,N/A
+10-7-1-1-0 All Adducts,4962368.25,2108450.63,N/A
+10-7-1-1-0 All Ratio,2.35,1,N/A
+10-8-0-0-0 Protonated,4795857,1963178,N/A
+10-8-0-0-0 Protonated Ratio,2.44,1,N/A
+10-8-0-0-0 All Adducts,4795857,1963177.63,N/A
+10-8-0-0-0 All Ratio,2.44,1,N/A
+10-8-0-1-0 Protonated,812511.4,510996.1,N/A
+10-8-0-1-0 Protonated Ratio,1.59,1,N/A
+10-8-0-1-0 All Adducts,812511.38,510996.09,N/A
+10-8-0-1-0 All Ratio,1.59,1,N/A
+10-8-0-2-0 Protonated,5000793,2852193,N/A
+10-8-0-2-0 Protonated Ratio,1.75,1,N/A
+10-8-0-2-0 All Adducts,10442916.5,4533468,N/A
+10-8-0-2-0 All Ratio,2.3,1,N/A
+10-8-1-0-0 Protonated,13249870,11291590,N/A
+10-8-1-0-0 Protonated Ratio,1.17,1,N/A
+10-8-1-0-0 All Adducts,13249874,11291594,N/A
+10-8-1-0-0 All Ratio,1.17,1,N/A
+10-8-1-1-0 Protonated,14989.67,20257.97,N/A
+10-8-1-1-0 Protonated Ratio,1,1.35,N/A
+10-8-1-1-0 All Adducts,14989.67,52498.41,N/A
+10-8-1-1-0 All Ratio,1,3.5,N/A
+10-8-1-2-0 Protonated,271450.6,465501.7,N/A
+10-8-1-2-0 Protonated Ratio,1,1.71,N/A
+10-8-1-2-0 All Adducts,271450.59,465501.69,N/A
+10-8-1-2-0 All Ratio,1,1.71,N/A
+10-9-0-0-0 Protonated,26102830,35292010,N/A
+10-9-0-0-0 Protonated Ratio,1,1.35,N/A
+10-9-0-0-0 All Adducts,40470321,68027784,N/A
+10-9-0-0-0 All Ratio,1,1.68,N/A
+10-9-0-1-0 Protonated,19698.12,24845.58,N/A
+10-9-0-1-0 Protonated Ratio,1,1.26,N/A
+10-9-0-1-0 All Adducts,19698.12,81497.4,N/A
+10-9-0-1-0 All Ratio,1,4.14,N/A
+10-9-0-2-0 Protonated,1066966,275309.3,N/A
+10-9-0-2-0 Protonated Ratio,3.88,1,N/A
+10-9-0-2-0 All Adducts,1066966,275309.31,N/A
+10-9-0-2-0 All Ratio,3.88,1,N/A
+10-9-0-3-0 Protonated,3816,5194.02,N/A
+10-9-0-3-0 Protonated Ratio,1,1.36,N/A
+10-9-0-3-0 All Adducts,7789.76,5194.02,N/A
+10-9-0-3-0 All Ratio,1.5,1,N/A
+10-9-1-0-0 Protonated,589704.8,227449.6,N/A
+10-9-1-0-0 Protonated Ratio,2.59,1,N/A
+10-9-1-0-0 All Adducts,589704.81,545467.28,N/A
+10-9-1-0-0 All Ratio,1.08,1,N/A
+10-9-1-1-0 Protonated,158164.8,401363.2,N/A
+10-9-1-1-0 Protonated Ratio,1,2.54,N/A
+10-9-1-1-0 All Adducts,1089855.15,401363.16,N/A
+10-9-1-1-0 All Ratio,2.72,1,N/A
+10-9-1-2-0 Protonated,531139.5,268665.1,N/A
+10-9-1-2-0 Protonated Ratio,1.98,1,N/A
+10-9-1-2-0 All Adducts,531139.5,268665.09,N/A
+10-9-1-2-0 All Ratio,1.98,1,N/A
+10-9-1-3-0 Protonated,35300.54,53181.58,N/A
+10-9-1-3-0 Protonated Ratio,1,1.51,N/A
+10-9-1-3-0 All Adducts,35300.54,53181.58,N/A
+10-9-1-3-0 All Ratio,1,1.51,N/A
+10-10-0-0-0 Protonated,43056520,13247740,N/A
+10-10-0-0-0 Protonated Ratio,3.25,1,N/A
+10-10-0-0-0 All Adducts,43056524,13247743,N/A
+10-10-0-0-0 All Ratio,3.25,1,N/A
+10-10-0-1-0 Protonated,5250.09,16773.95,N/A
+10-10-0-1-0 Protonated Ratio,1,3.19,N/A
+10-10-0-1-0 All Adducts,5250.09,16773.95,N/A
+10-10-0-1-0 All Ratio,1,3.19,N/A
+10-10-0-2-0 Protonated,0,97553.28,N/A
+10-10-0-2-0 Protonated Ratio,0,1,N/A
+10-10-0-2-0 All Adducts,0,1084447.01,N/A
+10-10-0-2-0 All Ratio,0,1,N/A
+10-10-0-3-0 Protonated,419265.8,131344.8,N/A
+10-10-0-3-0 Protonated Ratio,3.19,1,N/A
+10-10-0-3-0 All Adducts,419265.81,131344.8,N/A
+10-10-0-3-0 All Ratio,3.19,1,N/A
+10-10-0-4-0 Protonated,4480.26,0,N/A
+10-10-0-4-0 Protonated Ratio,1,0,N/A
+10-10-0-4-0 All Adducts,4480.26,0,N/A
+10-10-0-4-0 All Ratio,1,0,N/A
+10-10-1-0-0 Protonated,446798,971608.8,N/A
+10-10-1-0-0 Protonated Ratio,1,2.17,N/A
+10-10-1-0-0 All Adducts,446798,1161798.05,N/A
+10-10-1-0-0 All Ratio,1,2.6,N/A
+10-10-1-1-0 Protonated,160865.3,180524.4,N/A
+10-10-1-1-0 Protonated Ratio,1,1.12,N/A
+10-10-1-1-0 All Adducts,1821391.28,1025158.22,N/A
+10-10-1-1-0 All Ratio,1.78,1,N/A
+10-10-1-2-0 Protonated,68584.24,115828.1,N/A
+10-10-1-2-0 Protonated Ratio,1,1.69,N/A
+10-10-1-2-0 All Adducts,68584.24,115828.1,N/A
+10-10-1-2-0 All Ratio,1,1.69,N/A
+10-10-1-3-0 Protonated,0,8333.73,N/A
+10-10-1-3-0 Protonated Ratio,0,1,N/A
+10-10-1-3-0 All Adducts,0,8333.73,N/A
+10-10-1-3-0 All Ratio,0,1,N/A
+10-10-1-4-0 Protonated,42207.5,244288.8,N/A
+10-10-1-4-0 Protonated Ratio,1,5.79,N/A
+10-10-1-4-0 All Adducts,42207.5,244288.8,N/A
+10-10-1-4-0 All Ratio,1,5.79,N/A
+10-11-0-0-0 Protonated,527309,347750.7,N/A
+10-11-0-0-0 Protonated Ratio,1.52,1,N/A
+10-11-0-0-0 All Adducts,527309,347750.69,N/A
+10-11-0-0-0 All Ratio,1.52,1,N/A
+10-11-0-1-0 Protonated,14442.54,15873.13,N/A
+10-11-0-1-0 Protonated Ratio,1,1.1,N/A
+10-11-0-1-0 All Adducts,14442.54,15873.13,N/A
+10-11-0-1-0 All Ratio,1,1.1,N/A
+10-11-0-2-0 Protonated,12087.24,22254.47,N/A
+10-11-0-2-0 Protonated Ratio,1,1.84,N/A
+10-11-0-2-0 All Adducts,12087.24,115586.63,N/A
+10-11-0-2-0 All Ratio,1,9.56,N/A
+10-11-0-3-0 Protonated,4727.66,9867.2,N/A
+10-11-0-3-0 Protonated Ratio,1,2.09,N/A
+10-11-0-3-0 All Adducts,4727.66,9867.2,N/A
+10-11-0-3-0 All Ratio,1,2.09,N/A
+10-11-0-4-0 Protonated,4918.24,44066.39,N/A
+10-11-0-4-0 Protonated Ratio,1,8.96,N/A
+10-11-0-4-0 All Adducts,4918.24,44066.39,N/A
+10-11-0-4-0 All Ratio,1,8.96,N/A
+10-11-1-0-0 Protonated,490694.2,649500.4,N/A
+10-11-1-0-0 Protonated Ratio,1,1.32,N/A
+10-11-1-0-0 All Adducts,490694.19,649500.38,N/A
+10-11-1-0-0 All Ratio,1,1.32,N/A
+10-11-1-1-0 Protonated,5771.16,16688.29,N/A
+10-11-1-1-0 Protonated Ratio,1,2.89,N/A
+10-11-1-1-0 All Adducts,5771.15,16688.29,N/A
+10-11-1-1-0 All Ratio,1,2.89,N/A
+10-11-1-2-0 Protonated,43810.55,51876.37,N/A
+10-11-1-2-0 Protonated Ratio,1,1.18,N/A
+10-11-1-2-0 All Adducts,87025,51876.37,N/A
+10-11-1-2-0 All Ratio,1.68,1,N/A
+10-11-1-4-0 Protonated,5439.42,5506.4,N/A
+10-11-1-4-0 Protonated Ratio,1,1.01,N/A
+10-11-1-4-0 All Adducts,5439.42,5506.4,N/A
+10-11-1-4-0 All Ratio,1,1.01,N/A
+11-7-0-0-0 Protonated,134670.1,161010.3,N/A
+11-7-0-0-0 Protonated Ratio,1,1.2,N/A
+11-7-0-0-0 All Adducts,134670.09,161010.3,N/A
+11-7-0-0-0 All Ratio,1,1.2,N/A
+11-7-1-0-0 Protonated,3555.24,10229.27,N/A
+11-7-1-0-0 Protonated Ratio,1,2.88,N/A
+11-7-1-0-0 All Adducts,3555.24,27344.72,N/A
+11-7-1-0-0 All Ratio,1,7.69,N/A
+11-8-0-0-0 Protonated,4937.99,9704.12,N/A
+11-8-0-0-0 Protonated Ratio,1,1.97,N/A
+11-8-0-0-0 All Adducts,4937.99,9704.12,N/A
+11-8-0-0-0 All Ratio,1,1.97,N/A
+11-8-0-1-0 Protonated,8236223,37999200,N/A
+11-8-0-1-0 Protonated Ratio,1,4.61,N/A
+11-8-0-1-0 All Adducts,8236222.5,37999200,N/A
+11-8-0-1-0 All Ratio,1,4.61,N/A
+11-8-1-0-0 Protonated,16163.14,46925.36,N/A
+11-8-1-0-0 Protonated Ratio,1,2.9,N/A
+11-8-1-0-0 All Adducts,16163.14,46925.36,N/A
+11-8-1-0-0 All Ratio,1,2.9,N/A
+11-8-1-1-0 Protonated,9297654,2314294,N/A
+11-8-1-1-0 Protonated Ratio,4.02,1,N/A
+11-8-1-1-0 All Adducts,9297654,2314294,N/A
+11-8-1-1-0 All Ratio,4.02,1,N/A
+11-9-0-0-0 Protonated,858186.4,660328.8,N/A
+11-9-0-0-0 Protonated Ratio,1.3,1,N/A
+11-9-0-0-0 All Adducts,858186.38,1300331.34,N/A
+11-9-0-0-0 All Ratio,1,1.52,N/A
+11-9-0-1-0 Protonated,3314.52,47745.58,N/A
+11-9-0-1-0 Protonated Ratio,1,14.4,N/A
+11-9-0-1-0 All Adducts,3314.52,47745.58,N/A
+11-9-0-1-0 All Ratio,1,14.4,N/A
+11-9-0-2-0 Protonated,78129.76,79804.63,N/A
+11-9-0-2-0 Protonated Ratio,1,1.02,N/A
+11-9-0-2-0 All Adducts,78129.76,79804.63,N/A
+11-9-0-2-0 All Ratio,1,1.02,N/A
+11-9-1-0-0 Protonated,18348.29,32498.58,N/A
+11-9-1-0-0 Protonated Ratio,1,1.77,N/A
+11-9-1-0-0 All Adducts,50374.92,32498.58,N/A
+11-9-1-0-0 All Ratio,1.55,1,N/A
+11-9-1-1-0 Protonated,29002430,16304160,N/A
+11-9-1-1-0 Protonated Ratio,1.78,1,N/A
+11-9-1-1-0 All Adducts,42100609,23963763,N/A
+11-9-1-1-0 All Ratio,1.76,1,N/A
+11-9-1-2-0 Protonated,5342.94,11465.61,N/A
+11-9-1-2-0 Protonated Ratio,1,2.15,N/A
+11-9-1-2-0 All Adducts,5342.94,11465.61,N/A
+11-9-1-2-0 All Ratio,1,2.15,N/A
+11-10-0-0-0 Protonated,14704.44,14592.79,N/A
+11-10-0-0-0 Protonated Ratio,1.01,1,N/A
+11-10-0-0-0 All Adducts,14704.44,64459.17,N/A
+11-10-0-0-0 All Ratio,1,4.38,N/A
+11-10-0-1-0 Protonated,176190.6,57433.02,N/A
+11-10-0-1-0 Protonated Ratio,3.07,1,N/A
+11-10-0-1-0 All Adducts,239766.73,57433.02,N/A
+11-10-0-1-0 All Ratio,4.17,1,N/A
+11-10-0-2-0 Protonated,5070.5,4825.23,N/A
+11-10-0-2-0 Protonated Ratio,1.05,1,N/A
+11-10-0-2-0 All Adducts,5070.5,4825.23,N/A
+11-10-0-2-0 All Ratio,1.05,1,N/A
+11-10-0-3-0 Protonated,368365.5,168434.7,N/A
+11-10-0-3-0 Protonated Ratio,2.19,1,N/A
+11-10-0-3-0 All Adducts,368365.5,168434.7,N/A
+11-10-0-3-0 All Ratio,2.19,1,N/A
+11-10-1-0-0 Protonated,169603.9,220682.8,N/A
+11-10-1-0-0 Protonated Ratio,1,1.3,N/A
+11-10-1-0-0 All Adducts,1030173.07,665412.86,N/A
+11-10-1-0-0 All Ratio,1.55,1,N/A
+11-10-1-1-0 Protonated,478259.7,286871.1,N/A
+11-10-1-1-0 Protonated Ratio,1.67,1,N/A
+11-10-1-1-0 All Adducts,2328764.29,533069.38,N/A
+11-10-1-1-0 All Ratio,4.37,1,N/A
+11-10-1-2-0 Protonated,5801.51,5941.74,N/A
+11-10-1-2-0 Protonated Ratio,1,1.02,N/A
+11-10-1-2-0 All Adducts,5801.51,5941.73,N/A
+11-10-1-2-0 All Ratio,1,1.02,N/A
+11-10-1-3-0 Protonated,5448.05,4733.48,N/A
+11-10-1-3-0 Protonated Ratio,1.15,1,N/A
+11-10-1-3-0 All Adducts,5448.05,4733.48,N/A
+11-10-1-3-0 All Ratio,1.15,1,N/A
+11-11-0-0-0 Protonated,25389.16,19936.35,N/A
+11-11-0-0-0 Protonated Ratio,1.27,1,N/A
+11-11-0-0-0 All Adducts,42887.55,40662.92,N/A
+11-11-0-0-0 All Ratio,1.05,1,N/A
+11-11-0-1-0 Protonated,8921.03,12403.13,N/A
+11-11-0-1-0 Protonated Ratio,1,1.39,N/A
+11-11-0-1-0 All Adducts,8921.03,12403.13,N/A
+11-11-0-1-0 All Ratio,1,1.39,N/A
+11-11-0-2-0 Protonated,0,5981.22,N/A
+11-11-0-2-0 Protonated Ratio,0,1,N/A
+11-11-0-2-0 All Adducts,0,5981.22,N/A
+11-11-0-2-0 All Ratio,0,1,N/A
+11-11-0-3-0 Protonated,0,5179.71,N/A
+11-11-0-3-0 Protonated Ratio,0,1,N/A
+11-11-0-3-0 All Adducts,0,5179.71,N/A
+11-11-0-3-0 All Ratio,0,1,N/A
+11-11-0-4-0 Protonated,57735,12758.28,N/A
+11-11-0-4-0 Protonated Ratio,4.53,1,N/A
+11-11-0-4-0 All Adducts,57735,12758.28,N/A
+11-11-0-4-0 All Ratio,4.53,1,N/A
+11-11-1-0-0 Protonated,5649744,3126354,N/A
+11-11-1-0-0 Protonated Ratio,1.81,1,N/A
+11-11-1-0-0 All Adducts,5649743.5,3126353.5,N/A
+11-11-1-0-0 All Ratio,1.81,1,N/A
+11-11-1-1-0 Protonated,5427.67,232343.1,N/A
+11-11-1-1-0 Protonated Ratio,1,42.81,N/A
+11-11-1-1-0 All Adducts,5427.67,232343.09,N/A
+11-11-1-1-0 All Ratio,1,42.81,N/A
+11-11-1-3-0 Protonated,5311.66,21861.67,N/A
+11-11-1-3-0 Protonated Ratio,1,4.12,N/A
+11-11-1-3-0 All Adducts,5311.66,21861.67,N/A
+11-11-1-3-0 All Ratio,1,4.12,N/A
+11-11-1-4-0 Protonated,5391.94,5579.02,N/A
+11-11-1-4-0 Protonated Ratio,1,1.03,N/A
+11-11-1-4-0 All Adducts,5391.94,5579.02,N/A
+11-11-1-4-0 All Ratio,1,1.03,N/A
